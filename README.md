@@ -1,4 +1,4 @@
-# TypeScript bootstraping
+# TypeScript bootstrapping
 
 Simple skeleton for creating TS applications for Node.js
 
